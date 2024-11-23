@@ -1,0 +1,19 @@
+.day-night
+{
+    position: fixed;
+    right: 60px;
+    top: 60px;
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+    background: var(--bg-black-100);
+    border: 1px solid var(--bg-black-50);
+    text-align: center;
+    font-size: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.s-icon{
+    color: var(--text-black-900);
+}
